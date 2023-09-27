@@ -2,7 +2,7 @@
 
 This is a relic of the gentoo proaudio overlay at tuxfamily.org.
 
-For the new generation gentoo proaudio overlay, see <wip>.
+For the new generation gentoo proaudio overlay, see \<wip>.
 
 The non working ebuilds (not compiling, broken dependencies,
 dead projects with non available sources) are completely removed
