@@ -2,15 +2,15 @@
 
 This is a relic of the gentoo proaudio overlay at tuxfamily.org.
 
-For the new generation gentoo proaudio overlay, see
+For the new generation gentoo proaudio overlay, see <wip>.
 
 The non working ebuilds (not compiling, broken dependencies,
 dead projects with non available sources) are completely removed
-from tuxfamily and was not imported here.
+from tuxfamily and will not be imported here.
 
 You will find here only ebuilds that was working when importing them,
 but I don't use these software, have limited time. It can also be than
-have better alternatives.
+it is better alternatives.
 
 As example, bmpdj-bin have a terrific GUI, but it accept only the mp3
 format and have becomed closed sources, when mixxx is very advanced
