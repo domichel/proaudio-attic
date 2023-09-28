@@ -1,0 +1,18 @@
+--- work/src/makefile.common.orig	2017-07-27 02:34:24.534539719 +0200
++++ work/src/makefile.common	2017-07-27 02:42:11.469522682 +0200
+@@ -1,9 +1,11 @@
+ # common makefile directives for linux and win32 build
+ 
+-CC=gcc
+-CXX=g++
+-CFLAGS+=-O3 -Wall -Ibme -Iasm
+-CXXFLAGS=$(CFLAGS)
++CC ?= gcc
++CXX ?= g++
++CPPFLAGS += -Ibme -Iasm
++EXTFLAGS += -Wall
++CFLAGS ?= -O3
++CXXFLAGS ?= -O3
+ 
+ EXE=	$(PREFIX)gt2stereo$(SUFFIX) \
+ 	$(PREFIX)ins2snd2$(SUFFIX) \

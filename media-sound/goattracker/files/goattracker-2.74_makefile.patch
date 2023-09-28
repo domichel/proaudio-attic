@@ -1,0 +1,11 @@
+--- work/src/makefile.orig	2014-07-23 23:58:26.000000000 +0200
++++ work/src/makefile	2017-07-27 02:00:09.450614705 +0200
+@@ -2,7 +2,7 @@
+ # Linux makefile
+ #
+ 
+-CFLAGS=`sdl-config --cflags`
++CPPFLAGS=`sdl-config --cflags`
+ PREFIX=../linux/
+ SUFFIX=
+ LIBS=`sdl-config --libs`
