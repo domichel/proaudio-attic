@@ -2,3 +2,6 @@ proaudio-attic Packages List
 ############################
 - media-sound/bpmdj-bin/bpmdj-bin-49102.ebuild: "BpmDj: Next Generation DJ-ing"
 - media-sound/frinika/frinika-0.8.1.ebuild: "Frinika is a free, complete music workstation software"
+- media-sound/gneutronica/gneutronica-0.33-r1.ebuild: "A simple MIDI drum machine program modeled to a large extent on the Hydrogen drum machine software"
+- media-sound/goattracker/goattracker-2.77.ebuild: "A tracker-like editor for creating C64 MOS 6581/8580 SID music"
+- media-sound/jackctlmmc/jackctlmmc-4.ebuild: "Console program that listen to MIDI MMC to drive JACK transport"
