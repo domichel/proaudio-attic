@@ -1,0 +1,24 @@
+--- src/Makefile.old	2023-10-02 20:01:05.597540447 +0200
++++ src/Makefile	2023-10-02 20:02:23.340534650 +0200
+@@ -2,10 +2,10 @@
+ 
+ TARGET		= mx44
+ 
+-PREFIX		= /usr/local/
++PREFIX		= /usr/
+ 
+-DATADIR		= $(PREFIX)share/Mx44/
+-BINDIR		= $(PREFIX)bin/
++DATADIR		= $(DESTDIR)$(PREFIX)share/Mx44/
++BINDIR		= $(DESTDIR)$(PREFIX)bin/
+ 
+ DIR		= Mx44.2
+ 
+@@ -40,6 +40,7 @@
+ 	$(CC) -c $(FLAGS) $<
+ 
+ install: $(TARGET)
++	install -d $(BINDIR)
+ 	install $(TARGET) $(BINDIR)
+ 	install -d $(DATADIR)
+ 	install -t $(DATADIR) ../data/mx44patch
