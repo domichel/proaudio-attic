@@ -5,3 +5,4 @@ proaudio-attic Packages List
 - media-sound/gneutronica/gneutronica-0.33-r1.ebuild: "A simple MIDI drum machine program modeled to a large extent on the Hydrogen drum machine software"
 - media-sound/goattracker/goattracker-2.77.ebuild: "A tracker-like editor for creating C64 MOS 6581/8580 SID music"
 - media-sound/jackctlmmc/jackctlmmc-4.ebuild: "Console program that listen to MIDI MMC to drive JACK transport"
+- media-sound/mpadec/mpadec-9999.ebuild: "MPEG audio decoder."
