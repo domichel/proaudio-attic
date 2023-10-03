@@ -6,3 +6,5 @@ proaudio-attic Packages List
 - media-sound/goattracker/goattracker-2.77.ebuild: "A tracker-like editor for creating C64 MOS 6581/8580 SID music"
 - media-sound/jackctlmmc/jackctlmmc-4.ebuild: "Console program that listen to MIDI MMC to drive JACK transport"
 - media-sound/mpadec/mpadec-9999.ebuild: "MPEG audio decoder."
+- media-sound/mx44/mx44-2.0.0.ebuild: "Mx44 is a polyphonic midi realtime software synthesizer"
+- media-sound/postfish/postfish-9999.ebuild: "Digital audio post-processing, restoration, filtering and mixdown tool"
