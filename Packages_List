@@ -8,3 +8,5 @@ proaudio-attic Packages List
 - media-sound/mpadec/mpadec-9999.ebuild: "MPEG audio decoder."
 - media-sound/mx44/mx44-2.0.0.ebuild: "Mx44 is a polyphonic midi realtime software synthesizer"
 - media-sound/postfish/postfish-9999.ebuild: "Digital audio post-processing, restoration, filtering and mixdown tool"
+- media-sound/rakarrack/rakarrack-0.6.1.ebuild: "A richly featured multi-effects processor emulating a uitar effects pedalboard"
+- media-sound/rakarrack/rakarrack-9999.ebuild: "A richly featured multi-effects processor emulating a uitar effects pedalboard"
