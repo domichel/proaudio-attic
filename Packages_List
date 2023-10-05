@@ -10,3 +10,4 @@ proaudio-attic Packages List
 - media-sound/postfish/postfish-9999.ebuild: "Digital audio post-processing, restoration, filtering and mixdown tool"
 - media-sound/rakarrack/rakarrack-0.6.1.ebuild: "A richly featured multi-effects processor emulating a uitar effects pedalboard"
 - media-sound/rakarrack/rakarrack-9999.ebuild: "A richly featured multi-effects processor emulating a uitar effects pedalboard"
+- media-sound/sweep/sweep-9999.ebuild: "audio editor and live playback tool"
