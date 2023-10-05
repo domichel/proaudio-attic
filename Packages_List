@@ -12,3 +12,5 @@ proaudio-attic Packages List
 - media-sound/rakarrack/rakarrack-9999.ebuild: "A richly featured multi-effects processor emulating a uitar effects pedalboard"
 - media-sound/sweep/sweep-9999.ebuild: "audio editor and live playback tool"
 - media-sound/tkeca/tkeca-4.4.3.ebuild: "A Tcl/Tk front end for Ecasound, with almost all of Ecasound features."
+- media-sound/tutka/tutka-1.1.3.ebuild: "A free (as in freedom) tracker style MIDI sequencer for GNU/Linux"
+- media-sound/tutka/tutka-9999.ebuild: "A free (as in freedom) tracker style MIDI sequencer for GNU/Linux"
